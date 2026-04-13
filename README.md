@@ -5,3 +5,5 @@ Link to paper:
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241239  
 Link to data and code:
 Original: https://github.com/kaionwong/ethnicity-machine-learning-prediction  
+Data is the Mock Data and Ethnicity Recategorisation map files
+The reproduced code is the Ai for gov and policy project.py
